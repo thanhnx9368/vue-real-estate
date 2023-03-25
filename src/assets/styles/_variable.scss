@@ -1,0 +1,18 @@
+:root {
+
+  /* Colors */
+  --color-dark-values: 23, 21, 34;
+  --color-red-values: 231 37 83; 
+
+  /* tailwind css colors */
+  --color-first: 0 147 215; /* blue */
+
+  --color-primary: rgb(var(--color-first));
+  --color-dark: rgb(var(--color-dark-values));
+  --color-red: rgb(var(--color-red-values));
+
+  /* Font */
+  --font-family: SourceSansPro, sans-serif;
+  --font-lineheight: 1.2;
+}
+
